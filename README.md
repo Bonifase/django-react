@@ -1,8 +1,6 @@
-# DIY Django and React Boilerplate for SaaS
+# Django and React Boilerplate
 
-It is do-it-yourself Django + React Boilerplate for starting your SaaS application. In existing boilerplates for Django+React (or just for Django) there are very often too many features provided (do you really need traefik for MVP?). So before starting, you need to remove a lot of functionality that you don't need or simply don't understand. 
-
-I decided to create a simple Django+React boilerplate with step-by-step instructions how to build it. During building you can decide what you need or not. And for sure you learn a lot about Django and React. I hope it will provide good and quick starting point for creating SaaS applications. I would like to create real SaaS applications based on this boilerplate with step-by-step tutorials how they were created. They will be available at [SaaSitive](https://saasitive.com) website.
+It is do-it-yourself Django + React Boilerplate for starting your SaaS application. 
 
 ## Features (already implemented or planned)
 
@@ -18,11 +16,7 @@ I decided to create a simple Django+React boilerplate with step-by-step instruct
 - Payments with Stripe (not yet implemented)
 - Step-by-step instructions how to deploy and how to update application
 
-## Live Website
-
-You can play with this bolierplate at: [https://boilerplate.saasitive.com](https://boilerplate.saasitive.com) - deployed to t2.micro EC2 instance with docker-compose.
-
-## Step-by-step instructions:
+## Reference:
 1. [Starting SaaS with Django and React](https://saasitive.com/tutorial/django-react-boilerplate-saas/) (tag [v1](https://github.com/saasitive/django-react-boilerplate/tree/v1)) 
 2. [React Routing and Components for Signup and Login](https://saasitive.com/tutorial/react-routing-components-signup-login/) (tag [v2](https://github.com/saasitive/django-react-boilerplate/tree/v2))
 3. [Token Based Authentication with Django Rest Framework and Djoser](https://saasitive.com/tutorial/token-based-authentication-django-rest-framework-djoser/) (tag [v3](https://github.com/saasitive/django-react-boilerplate/tree/v3))
@@ -33,15 +27,5 @@ You can play with this bolierplate at: [https://boilerplate.saasitive.com](https
 8. [Django Rest Framework Email Verification](https://saasitive.com/tutorial/django-rest-framework-email-verification/) (tag [v8](https://github.com/saasitive/django-react-boilerplate/tree/v8))
 9. [Django Rest Framework Reset Password](https://saasitive.com/tutorial/django-rest-framework-reset-password/) (tag [v9](https://github.com/saasitive/django-react-boilerplate/tree/v9))
 
-
-More articles coming soon!
-
-## Screenshots
-
-<kbd><img src="https://raw.githubusercontent.com/saasitive/media/main/home_view.png" /></kbd>
-
-<kbd><img src="https://raw.githubusercontent.com/saasitive/media/main/signup.png" /></kbd>
-
-<kbd><img src="https://raw.githubusercontent.com/saasitive/media/main/login.png" /></kbd>
-
-<kbd><img src="https://raw.githubusercontent.com/saasitive/media/main/dashboard.png" /></kbd>
+## Acknowledgments:
+* [SaaSitive](https://github.com/saasitive) - Initial Author.
